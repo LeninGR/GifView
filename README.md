@@ -18,6 +18,8 @@ repositories {
     }
 }
 ```
+With recent versions of android studio, the previous line is not necessary, it places a problem in the build.
+
 On app's build.gradle
 ```
 compile 'com.github.Cutta:GifView:1.1'
